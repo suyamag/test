@@ -1,6 +1,6 @@
-Grant Suyama
-12914 SE 66th Pl, Bellevue WA 98006
-suyamagrant@gmail.com | (206)437-9599
+Grant Suyama  
+12914 SE 66th Pl, Bellevue WA 98006  
+suyamagrant@gmail.com | (206)437-9599  
 
 ## SUMMARY OF QUALIFICATIONS
 - Tech Skills: Python, SQL, Machine Learning, Web Scraping, Pandas, Javascript, Java, Kotlin, HTML
@@ -9,7 +9,7 @@ suyamagrant@gmail.com | (206)437-9599
 
 ## EDUCATION AND INVOLVEMENT
 
-**University of Washington**  June 2019
+**University of Washington**  June 2019  
 **Degree:** Bachelor of Science in Informatics
 
 - Coursework: Data Structures and Algorithms, Data Science, Client-Side Web Development, Relational Database Management, Project Management, Information Systems Analysis and Design, UX Design
