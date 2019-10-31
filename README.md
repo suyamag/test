@@ -1,4 +1,4 @@
-Grant Suyama  
+# Grant Suyama  
 12914 SE 66th Pl, Bellevue WA 98006  
 suyamagrant@gmail.com | (206)437-9599  
 
