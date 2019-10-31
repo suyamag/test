@@ -2,19 +2,19 @@ Grant Suyama
 12914 SE 66th Pl, Bellevue WA 98006
 suyamagrant@gmail.com | (206)437-9599
 
-##SUMMARY OF QUALIFICATIONS
+## SUMMARY OF QUALIFICATIONS
 - Tech Skills: Python, SQL, Machine Learning, Web Scraping, Pandas, Javascript, Java, Kotlin, HTML
 - Collaboration Skills: Agile/Scrum group work, simulated Waterfall SDLC classwork
 - Leadership Skills: 4 years as Youth Counselor and Project Organizer for middle school youth
 
-##EDUCATION AND INVOLVEMENT
+## EDUCATION AND INVOLVEMENT
 
 **University of Washington**  June 2019
 **Degree:** Bachelor of Science in Informatics
 
 - Coursework: Data Structures and Algorithms, Data Science, Client-Side Web Development, Relational Database Management, Project Management, Information Systems Analysis and Design, UX Design
 
-##PROJECTS
+## PROJECTS
 
 **Gates Foundation SQL Database** – Informatics Capstone  **Jan 2019 - Jun 2019**
 
@@ -43,7 +43,7 @@ suyamagrant@gmail.com | (206)437-9599
 - Guided design language decisions to ensure consistency between apps
 - Awarded best design among 6 other highly competitive teams
 
-##WORK EXPERIENCE
+## WORK EXPERIENCE
 
 **Terry's Kitchen –** Waiter, Expo, Bartender **Jul 2017 - Current**
 
